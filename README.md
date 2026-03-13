@@ -89,3 +89,17 @@ customers
 payments
 reviews
 
+### 📊 Tableau Dashboards
+
+#### 📈 E-Commerce Sales Dashboard
+
+Sales analysis based on product category, sellers, regions and monthly revenue trends.
+
+![dashboard1](dashboard-1.png)
+
+#### 📈 E-Commerce Business Performance Dashboard
+
+This dashboard focuses on business performance analytics for the e-commerce platform. It presents key metrics such as revenue trends, average order value, seller performance, and category revenue share to help understand sales growth and customer purchasing behavior.
+
+![dashboard2](dashboard-2.png)
+
